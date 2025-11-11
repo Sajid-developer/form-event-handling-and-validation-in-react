@@ -1,2 +1,2 @@
-# form-event-handling-and-validation-in-react
-Form event handling &amp; validation in React. ✅
+# Form event handling & validation In React
+Form event handling and validation in React. ✅
